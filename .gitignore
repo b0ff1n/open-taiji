@@ -1,0 +1,6 @@
+lib/*
+.idea
+bin
+share
+*.mp4
+lib/python3.12/*
